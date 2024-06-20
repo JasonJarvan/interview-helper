@@ -1,0 +1,10 @@
+__pycache__/
+*.wav
+.venv/
+venv/
+.idea/
+.vscode
+whisper_models/large-v3.pt
+whisper_models/base.pt
+whisper_models/medium.pt
+whisper_models/small.pt
