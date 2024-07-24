@@ -12,7 +12,6 @@ import subprocess
 from tkinter import PhotoImage
 
 #这个方法清空给定的文本框，并将新文本插入其中。
-#chen git test
 def write_in_textbox(textbox, text):
     textbox.delete("0.0", "end")
     textbox.insert("0.0", text)
